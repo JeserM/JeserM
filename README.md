@@ -10,6 +10,7 @@ Mi nombre es Jeser y estoy empezando en este basto :earth_africa:, mi estado act
 - 😄 Pronouns: He
 
 
+<image src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif" alt="Image description">
 
 ![VisualStudioCodeVsCodeGIF (2)](![image](https://github.com/user-attachments/assets/ca4ac683-f1f9-4fcb-8bcf-c2e79f8a3b34)
 )
