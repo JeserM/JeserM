@@ -11,9 +11,7 @@ Mi nombre es Jeser y estoy empezando en este basto :earth_africa:, mi estado act
 
 
 <image src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif" alt="Image description">
-
-![VisualStudioCodeVsCodeGIF (2)](![image](https://github.com/user-attachments/assets/ca4ac683-f1f9-4fcb-8bcf-c2e79f8a3b34)
-)
+![image](https://github.com/user-attachments/assets/d958a996-2b27-42c8-92bd-a5f255f3fe7e)
 
 **_Daria todo lo que sé por la mitad de lo que ignoro_**
 
